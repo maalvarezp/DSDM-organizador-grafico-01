@@ -1,3 +1,8 @@
+# Integrantes
+
+1. Galo Elizalde
+2. Máximo Álvarez 
+
 # organizador-grafico-01
 
 ### Importante
